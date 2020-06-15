@@ -1,0 +1,25 @@
+.section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.paragraph {
+  font-family: Varela, sans-serif;
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 30px;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  border-radius: 100px;
+  background-color: #f24a2f;
+  text-align: left;
+  text-transform: uppercase;
+}
+
