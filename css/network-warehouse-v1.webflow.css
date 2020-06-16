@@ -19,7 +19,7 @@ h4 {
 
 .section {
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 0px;
 }
 
 .paragraph {
@@ -84,13 +84,14 @@ h4 {
 }
 
 .container {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  display: block;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
+}
+
+.heading-2 {
+  text-align: left;
 }
 
