@@ -119,8 +119,9 @@ h4 {
 }
 
 .section-6 {
+  margin-bottom: 0px;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 0px;
 }
 
 .heading-3 {
@@ -128,6 +129,7 @@ h4 {
 }
 
 .container-2 {
+  margin-bottom: -40px;
   padding-top: 20px;
   padding-bottom: 20px;
   background-image: url('../images/section-header.jpg');
